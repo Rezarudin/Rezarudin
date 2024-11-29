@@ -1,4 +1,4 @@
-<h1 align="center">I am Rezarudin</h1>
+<h1 align="left">I am Rezarudin</h1>
 <h3 align="center">A Gamer & Front-End Enthusiast</h3>
 
 ###
