@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey I'm Rezarudin</h1>
 
 ###
 
-<p align="left">My name is Mukhammad Rezarudin Yusuf and I'm a Front-End & Design Graphic Enthusias, from Indonesia</p>
+<h3 align="center">The Front-End & Graphic Design Enthusiast</h3>
 
 ###
 
