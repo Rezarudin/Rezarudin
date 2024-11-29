@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/pKO4puOK4vbqUaaeAa/giphy.gif?cid=ecf05e47a33754nzl8fp2tc8v2hoh7te7jnrbm3hysrest60&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Your Image" width="50" height="50" style="margin-right: 20px;" />
-  <h1 align="left">I am Rezarudin</h1>
-</div>
+<h1 align="left">I am Rezarudin <img src="https://static.wikia.nocookie.net/virtualarena/images/4/4d/ZORO_RENDER_OUTCAST.png/revision/latest/scale-to-width-down/1000?cb=20110408142115&path-prefix=it" alt="Your Image" width="50" height="90" style="margin-right: 20px;" /></h1>
 
 <h3 align="center">A Gamer & Front-End Enthusiast</h3>
 
