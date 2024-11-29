@@ -1,6 +1,9 @@
 <h1 align="left">I am Rezarudin <img src="https://static.wikia.nocookie.net/virtualarena/images/4/4d/ZORO_RENDER_OUTCAST.png/revision/latest/scale-to-width-down/1000?cb=20110408142115&path-prefix=it" alt="Your Image" width="50" height="90" style="margin-right: 20px;" /></h1>
 
 <h3 align="center">A Gamer & Front-End Enthusiast</h3>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Rezarudin/count.svg?"  />
+</div>
 
 ###
 
@@ -23,5 +26,10 @@
   </a>
 </div>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rezarudin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rezarudin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
