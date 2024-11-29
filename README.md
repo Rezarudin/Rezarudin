@@ -1,3 +1,4 @@
+<h1 align="center">A Gamer & Front-End Enthusiast</h1>
 <h3 align="center">A Gamer & Front-End Enthusiast</h3>
 
 ###
