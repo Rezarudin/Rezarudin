@@ -1,4 +1,4 @@
-<h1 align="left">I am Rezarudin <img src="https://static.wikia.nocookie.net/virtualarena/images/4/4d/ZORO_RENDER_OUTCAST.png/revision/latest/scale-to-width-down/1000?cb=20110408142115&path-prefix=it" alt="Your Image" width="50" height="90" style="margin-right: 20px;" /></h1>
+<h1 align="left">I am Rezarudin <img src="https://static.wikia.nocookie.net/virtualarena/images/4/4d/ZORO_RENDER_OUTCAST.png/revision/latest/scale-to-width-down/1000?cb=20110408142115&path-prefix=it" alt="Your Image" width="30" height="50" style="margin-right: 20px;" /></h1>
 
 <h3 align="center">A Gamer & Front-End Enthusiast</h3>
 <div align="center">
